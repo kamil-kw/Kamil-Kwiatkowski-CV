@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Oswald&family=Raleway&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 body {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Roboto, Helvetica, sans-serif;
+    font-weight: 300;
 }
